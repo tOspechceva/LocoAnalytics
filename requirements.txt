@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+pydeck
+scikit-learn
+catboost
+statsmodels
+watchdog
+pyarrow
+scipy
